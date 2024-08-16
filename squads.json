@@ -1,0 +1,610 @@
+[
+  {
+    "id": "unit1",
+    "name": "Abomination",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Infernal",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit2",
+    "name": "Amethyst Aegis",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit3",
+    "name": "Arcane Hunter",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Hunter",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit4",
+    "name": "Archangel",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit5",
+    "name": "Archer",
+    "image": "assets/placeholder.png",
+    "rarity": "Common",
+    "faction": "Divine",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit6",
+    "name": "Armored Troll",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit7",
+    "name": "Assassin",
+    "image": "assets/placeholder.png",
+    "rarity": "Rare",
+    "faction": "Hunter",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit8",
+    "name": "Axe Thrower",
+    "image": "assets/placeholder.png",
+    "rarity": "Common",
+    "faction": "Hunter",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit9",
+    "name": "Bandolero",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit10",
+    "name": "Battle Drummer",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit11",
+    "name": "Beekeeper",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit12",
+    "name": "Berserker",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit13",
+    "name": "Bloodlust Bullet",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit14",
+    "name": "Blue Wizard",
+    "image": "assets/placeholder.png",
+    "rarity": "Rare",
+    "faction": "Divine",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit15",
+    "name": "Boomerang Mercenary",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit16",
+    "name": "Catapult",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Militia",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit17",
+    "name": "Cleric",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Divine",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit18",
+    "name": "Conductor",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Divine",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit19",
+    "name": "Crabomancer",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Infernal",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit20",
+    "name": "Dakini",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit21",
+    "name": "Demi Angel",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit22",
+    "name": "Draggy",
+    "image": "assets/placeholder.png",
+    "rarity": "Rare",
+    "faction": "Infernal",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit23",
+    "name": "Drenthest",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit24",
+    "name": "Dwarf Engineer",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit25",
+    "name": "Eira",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit26",
+    "name": "Elemental Witch",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit27",
+    "name": "Ember Elemental",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit28",
+    "name": "Verleaf",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Wildling",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit29",
+    "name": "Explorabbit",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit30",
+    "name": "Fire Slasher",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit31",
+    "name": "Frozen Heart",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit32",
+    "name": "Girtablilu",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit33",
+    "name": "Goblin",
+    "image": "assets/placeholder.png",
+    "rarity": "Common",
+    "faction": "Wildling",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit34",
+    "name": "Golem",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Militia",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit35",
+    "name": "Herbalist",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit36",
+    "name": "Hermes",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit37",
+    "name": "Holy Protector",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit38",
+    "name": "Imperial Elf",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit39",
+    "name": "Inferno Schredder",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit40",
+    "name": "Blazing Champion",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit41",
+    "name": "Juggernaut",
+    "image": "assets/Juggernaut.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit42",
+    "name": "Delivery Guy",
+    "image": "assets/placeholder.png",
+    "rarity": "Common",
+    "faction": "Infernal",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit43",
+    "name": "Leshy",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit44",
+    "name": "Merman",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Hunter",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit45",
+    "name": "Mr Beast",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit46",
+    "name": "Mushroom Shield",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Wildling",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit47",
+    "name": "Necromancer Rat",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Infernal",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit48",
+    "name": "Ninja Mole",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Hunter",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit49",
+    "name": "Oni Warrior",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit50",
+    "name": "Orc Rider",
+    "image": "assets/placeholder.png",
+    "rarity": "Rare",
+    "faction": "Militia",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit51",
+    "name": "Ose",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit52",
+    "name": "Pyromaniac",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Wildling",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit53",
+    "name": "Rainbow Chariot",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit54",
+    "name": "Royal Guard",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit55",
+    "name": "Samurai",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit56",
+    "name": "Sekhmet",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit57",
+    "name": "Sharpshooter",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit58",
+    "name": "Slime King",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit59",
+    "name": "Spirited Tiger",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit60",
+    "name": "Stone Hermit",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit61",
+    "name": "Storm",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Mage"
+  },
+  {
+    "id": "unit62",
+    "name": "Swashbuckler",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit63",
+    "name": "Swordsman",
+    "image": "assets/placeholder.png",
+    "rarity": "Common",
+    "faction": "Militia",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit64",
+    "name": "Sylvan Spirit",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit65",
+    "name": "The King",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Militia",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit66",
+    "name": "Thor",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit67",
+    "name": "Thundershot",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Ranged"
+  },
+  {
+    "id": "unit68",
+    "name": "Toad Druid",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit69",
+    "name": "Trickster",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Hunter",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit70",
+    "name": "Troll",
+    "image": "assets/placeholder.png",
+    "rarity": "Rare",
+    "faction": "Wildling",
+    "archetype": "Frontline"
+  },
+  {
+    "id": "unit71",
+    "name": "Valkyrie",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Divine",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit72",
+    "name": "Vampire Queen",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit73",
+    "name": "Warrior Carriage",
+    "image": "assets/placeholder.png",
+    "rarity": "Epic",
+    "faction": "Militia",
+    "archetype": "Assassin"
+  },
+  {
+    "id": "unit74",
+    "name": "Water Maiden",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Divine",
+    "archetype": "Support"
+  },
+  {
+    "id": "unit75",
+    "name": "Werewolf",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Wildling",
+    "archetype": "Melee"
+  },
+  {
+    "id": "unit76",
+    "name": "Ymir",
+    "image": "assets/placeholder.png",
+    "rarity": "Legendary",
+    "faction": "Infernal",
+    "archetype": "Melee"
+  }
+]

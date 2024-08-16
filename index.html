@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Troops Army Builder</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Top Troops Army Builder</h1>
+        </header>
+        <div class="main-container">
+            <aside class="side-panels">
+                <div class="faction-panel panel">
+                    <h2>Faction Bonus</h2>
+                    <div id="factionCounter"></div>
+                </div>
+                <div class="rarity-panel panel">
+                    <h2>Rarity Count</h2>
+                    <div id="rarityCounter"></div>
+                </div>
+            </aside>
+            <main>
+                <div class="control-panel">
+                    <button id="clearBtn" class="btn btn-danger">Clear Grid</button>
+                    <button id="saveBtn" class="btn btn-primary">Save Grid</button>
+                    <div id="troopCounter" class="troop-counter">Troops Deployed: 0 / 12</div>
+                </div>
+                <div class="grid-container">
+                    <div class="grid">
+                        <!-- Grid cells will be dynamically added here -->
+                    </div>
+                </div>
+            </main>
+        </div>
+        <footer class="character-panel-container">
+            <div class="filter-container">
+                <input type="text" id="characterSearch" placeholder="Search troops...">
+                <div class="filter-group">
+                    <select id="rarityFilter">
+                        <option value="">All Rarities</option>
+                        <!-- Options will be dynamically added -->
+                    </select>
+                    <select id="factionFilter">
+                        <option value="">All Factions</option>
+                        <!-- Options will be dynamically added -->
+                    </select>
+                    <select id="archetypeFilter">
+                        <option value="">All Archetypes</option>
+                        <!-- Options will be dynamically added -->
+                    </select>
+                </div>
+            </div>
+            <div id="characterPanel" class="character-panel">
+                <!-- Characters will be dynamically added here -->
+            </div>
+        </footer>
+    </div>
+    <div id="saveContainer" style="display: none;">
+        <div class="save-layout">
+            <div class="side-panels">
+                <div class="faction-panel panel">
+                    <h2>Faction Bonus</h2>
+                    <div id="saveFactionCounter"></div>
+                </div>
+                <div class="rarity-panel panel">
+                    <h2>Rarity Count</h2>
+                    <div id="saveRarityCounter"></div>
+                </div>
+            </div>
+            <div class="save-grid-container">
+                <div id="saveGrid"></div>
+            </div>
+        </div>
+    </div>
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
